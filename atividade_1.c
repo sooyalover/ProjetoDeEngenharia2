@@ -2,5 +2,6 @@
 
 int main(){
     printf("Ola!\n");
-    printf("Amanda Lopes, 202207040043");
+    printf("Amanda Lopes, 202207040043"); 
+  
 }
